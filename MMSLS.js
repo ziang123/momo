@@ -18,10 +18,17 @@ const MMSLS = [
 =====================请在下面编辑=====================
 */
 const MMSLS = [
-    "https://www.maimemo.com/share/page?uid=32529553&pid=e9200cedca0d9c0ba1a2e0664f34e8e7&tid=5708bb606efc9d297d0d6820db4b0975",
-    "https://www.maimemo.com/share/page?uid=32529553&pid=e9200cedca0d9c0ba1a2e0664f34e8e7&tid=5708bb606efc9d297d0d6820db4b0975",
-    "https://www.maimemo.com/share/page?uid=32529553&pid=e9200cedca0d9c0ba1a2e0664f34e8e7&tid=5708bb606efc9d297d0d6820db4b0975",
-    "https://www.maimemo.com/share/page?uid=32529553&pid=e9200cedca0d9c0ba1a2e0664f34e8e7&tid=5708bb606efc9d297d0d6820db4b0975",
+    "https://www.maimemo.com/share/page?tid=00e7ce664c89d430833611c941e6ab86&uid=32529553&pid=ed9cbdf4e8fb6d12da22cf515d5eeec9",
+    "https://www.maimemo.com/share/page?tid=00e7ce664c89d430833611c941e6ab86&uid=32529553&pid=ed9cbdf4e8fb6d12da22cf515d5eeec9",
+    "https://www.maimemo.com/share/page?tid=00e7ce664c89d430833611c941e6ab86&uid=32529553&pid=ed9cbdf4e8fb6d12da22cf515d5eeec9",
+    "https://www.maimemo.com/share/page?tid=00e7ce664c89d430833611c941e6ab86&uid=32529553&pid=ed9cbdf4e8fb6d12da22cf515d5eeec9",
+    "https://www.maimemo.com/share/page?tid=00e7ce664c89d430833611c941e6ab86&uid=32529553&pid=ed9cbdf4e8fb6d12da22cf515d5eeec9",
+    "https://www.maimemo.com/share/page?tid=00e7ce664c89d430833611c941e6ab86&uid=32529553&pid=ed9cbdf4e8fb6d12da22cf515d5eeec9",
+    "https://www.maimemo.com/share/page?tid=00e7ce664c89d430833611c941e6ab86&uid=32529553&pid=ed9cbdf4e8fb6d12da22cf515d5eeec9",
+    "https://www.maimemo.com/share/page?tid=00e7ce664c89d430833611c941e6ab86&uid=32529553&pid=ed9cbdf4e8fb6d12da22cf515d5eeec9",
+    "https://www.maimemo.com/share/page?tid=00e7ce664c89d430833611c941e6ab86&uid=32529553&pid=ed9cbdf4e8fb6d12da22cf515d5eeec9",
+    "https://www.maimemo.com/share/page?tid=00e7ce664c89d430833611c941e6ab86&uid=32529553&pid=ed9cbdf4e8fb6d12da22cf515d5eeec9",
+    "https://www.maimemo.com/share/page?tid=00e7ce664c89d430833611c941e6ab86&uid=32529553&pid=ed9cbdf4e8fb6d12da22cf515d5eeec9",
     
   ]
   /**
