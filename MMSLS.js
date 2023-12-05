@@ -1,34 +1,15 @@
-/**
-利用随机概率实现多账户运行
-
-填写格式如下：
-
-
 const MMSLS = [
-    "https://www.maimemo.com/share/page?tid=6c38676c7e39b523a2e6c2e8dd2599cb&uid=32529553&pid=1bf25d8bf75c3fa500a13ed9b6cc7793",
-    "https://www.maimemo.com/share/page?tid=6c38676c7e39b523a2e6c2e8dd2599cb&uid=32529553&pid=1bf25d8bf75c3fa500a13ed9b6cc7793",
-    "https://www.maimemo.com/share/page?tid=6c38676c7e39b523a2e6c2e8dd2599cb&uid=32529553&pid=1bf25d8bf75c3fa500a13ed9b6cc7793",
-  ]
-=====================以上为范例！=====================
-
-=====================请在下面编辑=====================
-=====================请在下面编辑=====================
-=====================请在下面编辑=====================
-=====================请在下面编辑=====================
-=====================请在下面编辑=====================
-*/
-const MMSLS = [
-    "https://www.maimemo.com/share/page?uid=32529553&pid=51406dd9e063b581acceb3363d60e3c3&tid=f48c6d61097ae8e60188ad5a69ee20c8",
-    "https://www.maimemo.com/share/page?uid=32529553&pid=51406dd9e063b581acceb3363d60e3c3&tid=f48c6d61097ae8e60188ad5a69ee20c8",
-    "https://www.maimemo.com/share/page?uid=32529553&pid=51406dd9e063b581acceb3363d60e3c3&tid=f48c6d61097ae8e60188ad5a69ee20c8",
-    "https://www.maimemo.com/share/page?uid=32529553&pid=51406dd9e063b581acceb3363d60e3c3&tid=f48c6d61097ae8e60188ad5a69ee20c8",
-    "https://www.maimemo.com/share/page?uid=32529553&pid=51406dd9e063b581acceb3363d60e3c3&tid=f48c6d61097ae8e60188ad5a69ee20c8",
-    "https://www.maimemo.com/share/page?uid=32529553&pid=51406dd9e063b581acceb3363d60e3c3&tid=f48c6d61097ae8e60188ad5a69ee20c8",
-    "https://www.maimemo.com/share/page?uid=32529553&pid=51406dd9e063b581acceb3363d60e3c3&tid=f48c6d61097ae8e60188ad5a69ee20c8",
-    "https://www.maimemo.com/share/page?uid=32529553&pid=51406dd9e063b581acceb3363d60e3c3&tid=f48c6d61097ae8e60188ad5a69ee20c8",
-    "https://www.maimemo.com/share/page?uid=32529553&pid=51406dd9e063b581acceb3363d60e3c3&tid=f48c6d61097ae8e60188ad5a69ee20c8",
-    "https://www.maimemo.com/share/page?uid=32529553&pid=51406dd9e063b581acceb3363d60e3c3&tid=f48c6d61097ae8e60188ad5a69ee20c8",
-    "https://www.maimemo.com/share/page?uid=32529553&pid=51406dd9e063b581acceb3363d60e3c3&tid=f48c6d61097ae8e60188ad5a69ee20c8",
+    "https://www.maimemo.com/share/page?uid=32529553&pid=ca61e29648691a4736dab4b5837e55a4&tid=d04f02c15ab0e1dd009ec9d4ff179cb3",
+    "https://www.maimemo.com/share/page?uid=32529553&pid=ca61e29648691a4736dab4b5837e55a4&tid=d04f02c15ab0e1dd009ec9d4ff179cb3",
+    "https://www.maimemo.com/share/page?uid=32529553&pid=ca61e29648691a4736dab4b5837e55a4&tid=d04f02c15ab0e1dd009ec9d4ff179cb3",
+    "https://www.maimemo.com/share/page?uid=32529553&pid=ca61e29648691a4736dab4b5837e55a4&tid=d04f02c15ab0e1dd009ec9d4ff179cb3",
+    "https://www.maimemo.com/share/page?uid=32529553&pid=ca61e29648691a4736dab4b5837e55a4&tid=d04f02c15ab0e1dd009ec9d4ff179cb3",
+    "https://www.maimemo.com/share/page?uid=32529553&pid=ca61e29648691a4736dab4b5837e55a4&tid=d04f02c15ab0e1dd009ec9d4ff179cb3",
+    "https://www.maimemo.com/share/page?uid=32529553&pid=ca61e29648691a4736dab4b5837e55a4&tid=d04f02c15ab0e1dd009ec9d4ff179cb3",
+    "https://www.maimemo.com/share/page?uid=32529553&pid=ca61e29648691a4736dab4b5837e55a4&tid=d04f02c15ab0e1dd009ec9d4ff179cb3",
+    "https://www.maimemo.com/share/page?uid=32529553&pid=ca61e29648691a4736dab4b5837e55a4&tid=d04f02c15ab0e1dd009ec9d4ff179cb3",
+    "https://www.maimemo.com/share/page?uid=32529553&pid=ca61e29648691a4736dab4b5837e55a4&tid=d04f02c15ab0e1dd009ec9d4ff179cb3",
+    "https://www.maimemo.com/share/page?uid=32529553&pid=ca61e29648691a4736dab4b5837e55a4&tid=d04f02c15ab0e1dd009ec9d4ff179cb3",
     
   ]
   /**
